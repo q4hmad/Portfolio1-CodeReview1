@@ -1,13 +1,18 @@
 h1 {
   text-align: center;
+  color: blue;
 }
 h3 {
   text-align: center;
+  background-color: green;
 }
 #projectlist {
   text-shadow: center;
   color: salmon;
 }
 h4 {
-  color: green;
+  
+}
+#center {
+  text-align: center;
 }
