@@ -1,33 +1,60 @@
 h1 {
-  text-align: center;
-  color: blue;
+    text-align: center;
+    color: blue;
 }
+
 h5 {
-  text-align: center;
-  background-color: #ffb3ff;
+    text-align: center;
+    background-color: #ffb3ff;
 }
+
 ul {
-  background-color: #ccffee;
-  .italics {
-    font-style: italic;
-    width: 85%;
-  }
-   {
     background-color: #ccffee;
-  }
+    .italics {
+        font-style: italic;
+        width: 85%;
+    }
+    {
+        background-color: #ccffee;
+    }
 }
+
 #center {
-  text-align: center;
+    text-align: center;
 }
+
+img {
+    height: 150px;
+    width: 200px;
+    float: right;
+    margin-top: -150px;
+}
+
+
 /*.col-md-4 {
-  padding: 20px;*/
+padding: 20px;*/
+
+
 /*}*/
+
+
 /*.red {*/
-  /*background-color:  #ffb3ff;*/
+
+
+/*background-color:  #ffb3ff;*/
+
+
 /*}*/
+
 .green {
-  background-color:  #99fdff;
+    background-color: #99fdff;
 }
+
+
 /*.blue {*/
-  /*background-color:  #ffb3be;*/
+
+
+/*background-color:  #ffb3be;*/
+
+
 /*}*/
