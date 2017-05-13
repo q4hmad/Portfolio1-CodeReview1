@@ -2,14 +2,32 @@ h1 {
   text-align: center;
   color: blue;
 }
-h4 {
+h5 {
   text-align: center;
-  background-color: #99e699;
+  background-color: #ffb3ff;
 }
 ul {
   background-color: #ccffee;
-
+  .italics {
+    font-style: italic;
+    width: 85%;
+  }
+   {
+    background-color: #ccffee;
+  }
 }
 #center {
   text-align: center;
 }
+/*.col-md-4 {
+  padding: 20px;*/
+/*}*/
+/*.red {*/
+  /*background-color:  #ffb3ff;*/
+/*}*/
+.green {
+  background-color:  #99fdff;
+}
+/*.blue {*/
+  /*background-color:  #ffb3be;*/
+/*}*/
